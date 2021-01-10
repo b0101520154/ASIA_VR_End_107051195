@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - projectile
+  - FxTemporaire
+  - "\u795E\u5947\u7403\u7403"
+  - "\u806F\u7D50\u7403"
   layers:
   - Default
   - TransparentFX
